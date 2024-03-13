@@ -1,0 +1,28 @@
+C:\Users\lenovo\source\repos\1055_LeXuanTruc\1055_LeXuanTruc\obj\Debug\1055_LeXuanTruc.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\1055_LeXuanTruc\1055_LeXuanTruc\obj\Debug\_1055_LeXuanTruc.frm_NHANVIEN.resources
+C:\Users\lenovo\source\repos\1055_LeXuanTruc\1055_LeXuanTruc\obj\Debug\_1055_LeXuanTruc.Properties.Resources.resources
+C:\Users\lenovo\source\repos\1055_LeXuanTruc\1055_LeXuanTruc\obj\Debug\1055_LeXuanTruc.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\1055_LeXuanTruc\1055_LeXuanTruc\obj\Debug\1055_LeXuanTruc.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\1055_LeXuanTruc\1055_LeXuanTruc\bin\Debug\1055_LeXuanTruc.mdf
+C:\Users\lenovo\source\repos\1055_LeXuanTruc\1055_LeXuanTruc\bin\Debug\1055_LeXuanTruc_log.ldf
+C:\Users\lenovo\source\repos\1055_LeXuanTruc\1055_LeXuanTruc\bin\Debug\1055_LeXuanTruc.exe.config
+C:\Users\lenovo\source\repos\1055_LeXuanTruc\1055_LeXuanTruc\bin\Debug\1055_LeXuanTruc.exe
+C:\Users\lenovo\source\repos\1055_LeXuanTruc\1055_LeXuanTruc\bin\Debug\1055_LeXuanTruc.pdb
+C:\Users\lenovo\source\repos\1055_LeXuanTruc\1055_LeXuanTruc\obj\Debug\1055_LeXuanTruc.exe
+C:\Users\lenovo\source\repos\1055_LeXuanTruc\1055_LeXuanTruc\obj\Debug\1055_LeXuanTruc.pdb
+D:\lesson\.NET\Do an ca nhan\1055_LeXuanTruc\1055_LeXuanTruc\bin\Debug\1055_LeXuanTruc.mdf
+D:\lesson\.NET\Do an ca nhan\1055_LeXuanTruc\1055_LeXuanTruc\bin\Debug\1055_LeXuanTruc_log.ldf
+D:\lesson\.NET\Do an ca nhan\1055_LeXuanTruc\1055_LeXuanTruc\bin\Debug\1055_LeXuanTruc.exe.config
+D:\lesson\.NET\Do an ca nhan\1055_LeXuanTruc\1055_LeXuanTruc\bin\Debug\1055_LeXuanTruc.exe
+D:\lesson\.NET\Do an ca nhan\1055_LeXuanTruc\1055_LeXuanTruc\bin\Debug\1055_LeXuanTruc.pdb
+D:\lesson\.NET\Do an ca nhan\1055_LeXuanTruc\1055_LeXuanTruc\obj\Debug\1055_LeXuanTruc.csproj.AssemblyReference.cache
+D:\lesson\.NET\Do an ca nhan\1055_LeXuanTruc\1055_LeXuanTruc\obj\Debug\_1055_LeXuanTruc.frm_quanlythuvien.resources
+D:\lesson\.NET\Do an ca nhan\1055_LeXuanTruc\1055_LeXuanTruc\obj\Debug\_1055_LeXuanTruc.frm_thongtinbandoc.resources
+D:\lesson\.NET\Do an ca nhan\1055_LeXuanTruc\1055_LeXuanTruc\obj\Debug\_1055_LeXuanTruc.Properties.Resources.resources
+D:\lesson\.NET\Do an ca nhan\1055_LeXuanTruc\1055_LeXuanTruc\obj\Debug\1055_LeXuanTruc.csproj.GenerateResource.cache
+D:\lesson\.NET\Do an ca nhan\1055_LeXuanTruc\1055_LeXuanTruc\obj\Debug\1055_LeXuanTruc.csproj.CoreCompileInputs.cache
+D:\lesson\.NET\Do an ca nhan\1055_LeXuanTruc\1055_LeXuanTruc\obj\Debug\1055_LeXuanTruc.exe
+D:\lesson\.NET\Do an ca nhan\1055_LeXuanTruc\1055_LeXuanTruc\obj\Debug\1055_LeXuanTruc.pdb
+D:\lesson\.NET\Do an ca nhan\1055_LeXuanTruc\1055_LeXuanTruc\obj\Debug\_1055_LeXuanTruc.frm_quanlysach.resources
+D:\lesson\.NET\Do an ca nhan\1055_LeXuanTruc\1055_LeXuanTruc\obj\Debug\_1055_LeXuanTruc.frm_QuanLyNhanVien.resources
+D:\lesson\.NET\Do an ca nhan\1055_LeXuanTruc\1055_LeXuanTruc\obj\Debug\_1055_LeXuanTruc.frm_themuonsach.resources
